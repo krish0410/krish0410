@@ -19,8 +19,6 @@
 </div>
 <h3 align="center">A Self-taught Computer Scinece Student from India.</h3>
 
-### :man_technologist: About Me :
-
 
 ### :fire: My Stats :
 
