@@ -28,3 +28,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish0410&layout=compact&theme=vision-friendly-dark)](https://github.com/krish0410/github-readme-stats)
 
+
+### 👨‍💻: Top Repositories :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=AICTE-chatbot)](https://github.com/krish0410/AICTE-chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=Administration_management_system)](https://github.com/krish0410/Administration_management_system)
