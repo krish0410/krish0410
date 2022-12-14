@@ -22,10 +22,9 @@
 
 ### :fire: My Stats :
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish0410&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish0410&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krish0410&theme=dark&background=000000)](https://git.io/streak-stats)
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish0410&layout=compact&theme=vision-friendly-dark)](https://github.com/krish0410/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish0410&layout=compact&theme=vision-friendly-dark)](https://github.com/krish0410/github-readme-stats)
 
 
 ### 👨‍💻: Top Repositories :
