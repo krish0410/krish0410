@@ -22,13 +22,13 @@
 
 ### :fire: My Stats :
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish0410&show_icons=true&theme=radical)
-
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish0410&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krish0410&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish0410&layout=compact&theme=vision-friendly-dark)](https://github.com/krish0410/github-readme-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish0410&layout=compact&theme=vision-friendly-dark)](https://github.com/krish0410/github-readme-stats)
 
 
 ### 👨‍💻: Top Repositories :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=AICTE-chatbot)](https://github.com/krish0410/AICTE-chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=AICTE-chatbot)](https://github.com/krish0410/AICTE-chatbot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=Administration_management_system)](https://github.com/krish0410/Administration_management_system)
