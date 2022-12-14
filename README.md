@@ -32,4 +32,4 @@
 ### 👨‍💻: Top Repositories :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=AICTE-chatbot)](https://github.com/krish0410/AICTE-chatbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=Administration_management_system)](https://github.com/krish0410/Administration_management_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krish0410&repo=Administration_management_system)](https://github.com/krish0410/Administration_management_syste)
