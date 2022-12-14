@@ -7,7 +7,7 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/krish-kumar-69b32a1b9/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/krishk0410?t=eiVYz3OftDD2QqSoJXMZrg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
